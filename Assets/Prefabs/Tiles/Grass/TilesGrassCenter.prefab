@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 212737214641198514}
   - component: {fileID: 50614554335326424}
   - component: {fileID: 61142455113588300}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: TilesGrassCenter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
